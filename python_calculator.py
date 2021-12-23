@@ -1,0 +1,5 @@
+print("Enter Your First No")
+no1=input()
+print("Enter your second no")
+no2=input()
+print("sum of your digit is",int(no1)+int(no2))
